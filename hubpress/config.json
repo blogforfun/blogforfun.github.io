@@ -4,7 +4,13 @@
     "repositoryName": "blogforfun.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Saurav Panta's Blog",
+    "description": "I blog about software development, photography, and home automation",
+    "postsPerPage": "5"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
