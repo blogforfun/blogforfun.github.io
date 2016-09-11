@@ -9,7 +9,10 @@
     "description": "I blog about software development, photography, and home automation",
     "postsPerPage": "5"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "email": "sauravpanta@gmail.com",
+    "linkedin": "http://linkedin.com/in/sauravpanta"
+  },
   "theme": {
     "name": "casper"
   }
